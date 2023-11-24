@@ -11,6 +11,8 @@
 ![image](https://github.com/AmbalikaDasgupta/Medicine_Sales_Data_Cleaning_Automation_Python/assets/113545532/287ebd4a-dca9-4bd1-b69e-53a0936a948b)
 ![image](https://github.com/AmbalikaDasgupta/Medicine_Sales_Data_Cleaning_Automation_Python/assets/113545532/21c4647e-1b87-4f67-acb7-545fdf2c66a1)
 ![image](https://github.com/AmbalikaDasgupta/Medicine_Sales_Data_Cleaning_Automation_Python/assets/113545532/9b5c9304-c29a-4fb1-b4b4-f8e929f10f47)
+![image](https://github.com/AmbalikaDasgupta/Medicine_Sales_Data_Cleaning_Automation_Python/assets/113545532/b5abf1a1-6dad-4c68-a212-ca0b2086b7e3)
+
 
 
 
